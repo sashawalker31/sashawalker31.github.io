@@ -1,11 +1,11 @@
 # Site settings
-author: sasha walker
-title: 
+author: Sasha W
+title: ItsChoc's World
 header-img: img/home-bg.png
 email: sashawalker31@gmail.com
-copyright_name: sasha walker
+copyright_name: Sasha W
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Come journey with me through love, life, and code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sashawalker31
